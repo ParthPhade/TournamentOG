@@ -13,7 +13,7 @@
             <artifactId>annotations</artifactId>
             <version>22.0.0</version>
         </dependency>
-        <!-- Add other dependencies here -->
+        
     </dependencies>
     <build>
         <plugins>
