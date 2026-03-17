@@ -1,0 +1,12 @@
+name: TournamentOG
+version: 1.0.0
+description: Advanced tournament plugin for Paper 1.21+
+author: ParthPhade
+main: com.tournamentog.TournamentOG
+api-version: "1.21"
+commands:
+  tournament:
+    aliases: [tour, tog]
+permissions:
+  tournamentog.admin:
+  tournamentog.use:
